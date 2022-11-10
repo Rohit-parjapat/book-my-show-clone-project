@@ -1,6 +1,7 @@
 # BOOK MY SHOW CLONE PROJECT - 10722
 
 This is a Bookmyshow website for Booking movies online
+
 BookMyShow is Asia's largest entertainment platform & ticketing service
 
 ## Link For real Website
@@ -36,7 +37,9 @@ https://in.bookmyshow.com/
 ## This Website clone contains three different pages :
 
 HomePage: Localhost:3000/
+
 MoviePage: Localhost:3000/movie/:\_id
-PkayPage: Localhost:3000/plays
+
+PlayPage: Localhost:3000/plays
 
 # Razorpay service is used for payments
